@@ -15,7 +15,7 @@
   
   The program should display the average marks up to two decimal places and the corresponding grade. 
   
-# Date : 
+# Date : 20-11-2025
 # Aim:
  To build a C program that receives inputs for a student’s marks in three subjects, calculates the average, and determines the grade using nested if-else statements with safe floating-point comparisons.
 # Algorithm:
@@ -56,7 +56,11 @@
 ### Step 11:
   Stop
 # Program:
+<img width="799" height="626" alt="image" src="https://github.com/user-attachments/assets/c84a08af-5d6f-4e6e-a9ca-3cfb9b6484ae" />
+
 # Output:
+<img width="812" height="346" alt="image" src="https://github.com/user-attachments/assets/ac7db7ac-01a4-482b-901e-738a54643f70" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -64,7 +68,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-2- Module 2 - FoC
 # Ex.No:7
   Develop a C program to display the multiplication table of a given number (15) up to 10.
-# Date : 
+# Date : 20-11-2025
 # Aim:
  To develop a C program that prints the multiplication table of the number 15 up to 10 using a for loop.
 # Algorithm:
@@ -88,7 +92,11 @@ Thus, the program was implemented and executed successfully, and the required ou
   Stop
 
 # Program:
+<img width="858" height="746" alt="image" src="https://github.com/user-attachments/assets/b8ddf619-abfa-4dcd-b974-4f9661f48869" />
+
 # Output:
+<img width="814" height="652" alt="image" src="https://github.com/user-attachments/assets/68e3e939-cc5f-42e7-bc5f-1fb92e2fd814" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -96,7 +104,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-2- Module 2 - FoC
 # Ex.No:8
   Develop a C program to check whether a given number is prime or not.
-# Date : 
+# Date : 20-11-2025
 # Aim:
  To develop a C program that determines whether an input number is a prime number using a while loop.
 # Algorithm:
@@ -131,7 +139,13 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 7:   
   Stop
 # Program:
+<img width="821" height="683" alt="image" src="https://github.com/user-attachments/assets/1daa55a0-c016-4ef0-866d-b05921554fdf" />
+
 # Output:
+<img width="804" height="322" alt="image" src="https://github.com/user-attachments/assets/21bd1366-78e9-4bc1-9cca-5997bda9a90a" />
+<img width="810" height="318" alt="image" src="https://github.com/user-attachments/assets/bc3adada-f5a1-4468-9eb0-b07673c14a36" />
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -147,7 +161,7 @@ Thus, the program was implemented and executed successfully, and the required ou
  4   2  
  54321
  ```
-# Date : 
+# Date : 20-11-2025
 # Aim:
  To build a C program that prints the required numeric pattern for a given value of n using nested loops.
 # Algorithm:
@@ -179,7 +193,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+<img width="808" height="612" alt="image" src="https://github.com/user-attachments/assets/d334ff8b-e7d8-4889-a588-14c8117a76b4" />
+
 # Output:
+<img width="819" height="437" alt="image" src="https://github.com/user-attachments/assets/057ed8aa-a84a-4a57-8c29-c9869ab2d5d1" />
+
 # Result: 
   Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -232,6 +250,11 @@ Thus, the program was implemented and executed successfully, and the required ou
   Decrease i by 1 and go back to Step 6.
 ### Step 8:
   Stop
+###program:
+  <img width="821" height="520" alt="image" src="https://github.com/user-attachments/assets/aff51fe7-21e1-43d4-b3f1-0316227ea0c7" />
+###output:
+<img width="823" height="437" alt="image" src="https://github.com/user-attachments/assets/dac40966-f53b-4bc9-8a93-fc4ab38f4363" />
+
 # Result:
   Thus, the program was implemented and executed successfully, and the required output was obtained.
 
